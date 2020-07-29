@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**LeoCodes21/LeoCodes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from New York interested in game preservation and reverse engineering. GitHub is home to the vast majority of my work.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on:
+  - [Soapbox Race World](https://github.com/SoapboxRaceWorld) - an emulator for an abandoned online multiplayer racing game.
+  - [NFS Modding Tools](https://github.com/NFSTools) - content modification tools for the _Need for Speed_ game series.
+  
+💬 Ask me about **game modding and reverse engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+  - Via **Discord**: `heyitsleo#0001`
+  - Via **Twitter**: [@NotCoderL](https://twitter.com/NotCoderL)
+  - Via **e-mail**: See the public email address on my profile.
+  
+😄 Pronouns: he/him/his
+
+⚡ Fun fact: I was featured in [a PC Gamer article](https://www.pcgamer.com/how-players-resurrected-the-need-for-speed-mmo-you-didnt-even-know-existed/) about Soapbox Race World.
